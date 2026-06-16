@@ -1,2 +1,25 @@
-# corporate-training-marketing-campaign-planner-template-pack
-Professional template for Corporate Training professionals.
+# Corporate Training Marketing Campaign Planner Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZubJ18v58Is8FG33md012m)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZubJ18v58Is8FG33md012m)
+
